@@ -1,5 +1,7 @@
 import React from "react";
 import { Link, useLocation } from "react-router-dom";
+import "./style.css";
+import ContactBox from "../ContactBox";
 
 export default function NavTabs() {
   const location = useLocation();
