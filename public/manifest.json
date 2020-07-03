@@ -8,14 +8,39 @@
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
-      "type": "image/png",
-      "sizes": "192x192"
+      "src": "employeedirectory.gif",
+      "type": "image/gif",
+      "sizes": "640x360"
     },
     {
-      "src": "logo512.png",
+      "src": "fitness.gif",
+      "type": "image/gif",
+      "sizes": "640x360"
+    },
+    {
+      "src": "notetaker.gif",
+      "type": "image/gif",
+      "sizes": "640x360"
+    },
+    {
+      "src": "placeholder.png",
       "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "640x360"
+    },
+    {
+      "src": "project1.png",
+      "type": "image/png",
+      "sizes": "640x360"
+    },
+    {
+      "src": "weather.png",
+      "type": "image/png",
+      "sizes": "640x360"
+    },
+    {
+      "src": "git.jpg",
+      "type": "image/jpg",
+      "sizes": "1125x1500"
     }
   ],
   "start_url": ".",

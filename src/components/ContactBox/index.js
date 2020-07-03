@@ -4,10 +4,13 @@ import "./style.css";
 export default function ContactBox() {
   return (
     <div className="contact">
-      <a href="https://github.com/RyanJMS">
+      <a href="https://github.com/RyanJMS" target="_blank">
         <img id="github" src="assets/images/github.svg" alt="github" />
       </a>
-      <a href="https://www.linkedin.com/in/ryan-schock-02422a170/">
+      <a
+        href="https://www.linkedin.com/in/ryan-schock-02422a170/"
+        target="_blank"
+      >
         <img id="linkedin" src="assets/images/linkedin.svg" alt="linkin" />
       </a>
 
