@@ -1,7 +1,7 @@
 
   # React Portfolio
   Repo by RyanJMS
-  ![GitHub contributors](https://img.shields.io/github/contributors/RyanJMS/RyanJMS/react-portfolio?logoColor=blue&style=plastic)
+  
 
 
   
