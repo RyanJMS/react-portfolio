@@ -22,7 +22,7 @@
 
   ## Usage
 
-  Visit the live link here --> 
+  Visit the live link here --> https://ryanjms.github.io/react-portfolio/
 
   ## License
 
