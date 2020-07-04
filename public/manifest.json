@@ -8,37 +8,37 @@
       "type": "image/x-icon"
     },
     {
-      "src": "assets/images/employeedirectory.gif",
+      "src": "employeedirectory.gif",
       "type": "image/gif",
       "sizes": "640x360"
     },
     {
-      "src": "assets/images/fitness.gif",
+      "src": "fitness.gif",
       "type": "image/gif",
       "sizes": "640x360"
     },
     {
-      "src": "assets/images/notetaker.gif",
+      "src": "notetaker.gif",
       "type": "image/gif",
       "sizes": "640x360"
     },
     {
-      "src": "assets/images/placeholder.png",
+      "src": "placeholder.png",
       "type": "image/png",
       "sizes": "640x360"
     },
     {
-      "src": "assets/images/project1.png",
+      "src": "project1.png",
       "type": "image/png",
       "sizes": "640x360"
     },
     {
-      "src": "assets/images/weather.png",
+      "src": "weather.png",
       "type": "image/png",
       "sizes": "640x360"
     },
     {
-      "src": "assets/images/git.jpg",
+      "src": "git.jpg",
       "type": "image/jpg",
       "sizes": "1125x1500"
     }
