@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Portfolio",
+  "name": "React Portfolio",
   "icons": [
     {
       "src": "favicon.ico",
@@ -40,6 +40,31 @@
     {
       "src": "git.jpg",
       "type": "image/jpg",
+      "sizes": "1125x1500"
+    },
+    {
+      "src": "file.svg",
+      "type": "image/svg",
+      "sizes": "1125x1500"
+    },
+    {
+      "src": "send.svg",
+      "type": "image/svg",
+      "sizes": "1125x1500"
+    },
+    {
+      "src": "github.svg",
+      "type": "image/svg",
+      "sizes": "1125x1500"
+    },
+    {
+      "src": "phone-call.svg",
+      "type": "image/svg",
+      "sizes": "1125x1500"
+    },
+    {
+      "src": "linkedin.svg",
+      "type": "image/svg",
       "sizes": "1125x1500"
     }
   ],
