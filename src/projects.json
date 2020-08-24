@@ -41,8 +41,10 @@
   },
   {
     "id": 6,
-    "image": "assets/images/placeholder.png",
-    "title": "Project 3 (TBD)",
-    "description": "This project is currently in progress..."
+    "image": "assets/images/halftime.gif",
+    "title": "Half-Time",
+    "description": "This is a fantasy soccer app, as well as a general soccer hub. Built with React, and various API's.",
+    "repoLink": "https://github.com/diegolehyt/Half-Time",
+    "liveLink": "https://still-taiga-30261.herokuapp.com/"
   }
 ]
