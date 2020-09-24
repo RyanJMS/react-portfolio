@@ -2,3 +2,7 @@
   height: 50%;
   width: 50%;
 }
+
+#cardTitle {
+  text-align: center;
+}

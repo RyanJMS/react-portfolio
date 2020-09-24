@@ -16,6 +16,16 @@ export default function Navbar() {
       </li>
       <li className="nav-item">
         <Link
+          to="/skills"
+          className={
+            location.pathname === "/skills" ? "nav-link active" : "nav-link"
+          }
+        >
+          Skills
+        </Link>
+      </li>
+      <li className="nav-item">
+        <Link
           to="/portfolio"
           className={
             location.pathname === "/portfolio" ? "nav-link active" : "nav-link"
